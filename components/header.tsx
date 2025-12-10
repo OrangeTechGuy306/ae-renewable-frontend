@@ -54,12 +54,12 @@ export default function Header() {
               <Link href="/contact" className="text-foreground hover:text-primary transition">
                 Contact
               </Link>
-              <Link
+              {/* <Link
                 href="/dashboard"
                 className="px-4 py-2 bg-primary text-primary-foreground rounded-md hover:opacity-90 transition text-center"
               >
                 Dashboard
-              </Link>
+              </Link> */}
             </div>
           </div>
         )}
